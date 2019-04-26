@@ -1,2 +1,2 @@
 # QuadTree
-It's a QuadTree :)
+It's a QuadTree made in MonoGame :)
